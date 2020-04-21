@@ -11,7 +11,7 @@
 	<groupId>com.tuya.edge</groupId>
 	<artifactId>edge-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>edge-demo</name>
+	<name>tuya edge gateway demo</name>
 	<description>tuya edge gateway demo</description>
 
 	<properties>
